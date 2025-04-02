@@ -1,5 +1,5 @@
 name: telegram-voice-bot
-
 build:
-  engine: docker
+  docker:
+    file: Dockerfile
 
